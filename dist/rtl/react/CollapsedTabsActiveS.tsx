@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgCollapsedTabsActiveS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M17.33 3H23v16.5a2.5 2.5 0 0 1-2.5 2.5H1V8.5A2.5 2.5 0 0 1 3.5 6h9.3c.31 0 .62-.13.85-.35l1.91-1.92A2.5 2.5 0 0 1 17.33 3ZM6.65 16.3l.7.7L12 12.35 16.65 17l.7-.7L12 10.93l-5.35 5.35Z"
+    />
+  </svg>
+);
+export default SvgCollapsedTabsActiveS;

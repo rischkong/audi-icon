@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgDeliveryL = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M42 31.5V21h-1v10.5c0 .82-.66 1.48-1.48 1.48h-5.47v.5a3.46 3.46 0 0 1-6.9 0v-.5H10.87v.5a3.46 3.46 0 0 1-6.91 0v-.5h-1.5c-.8 0-1.47-.66-1.47-1.48v-8l2.75-4.81a3.46 3.46 0 0 1 3-1.74H9.9v9.89h1V13.48c0-.82.66-1.48 1.48-1.48H42v-1H12.37a2.48 2.48 0 0 0-2.48 2.48v2.47H6.75c-1.6 0-3.07.85-3.87 2.24L.07 23.12l-.07.12v8.26a2.48 2.48 0 0 0 2.48 2.48H3a4.46 4.46 0 0 0 8.85 0h14.32a4.46 4.46 0 0 0 8.86 0h4.5A2.48 2.48 0 0 0 42 31.5ZM36 17v1h6v-1h-6Zm0-3v1h10v-1H36Z"
+    />
+  </svg>
+);
+export default SvgDeliveryL;

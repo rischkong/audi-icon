@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgAirFilterInletL = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M18.5 32v12H29a4.5 4.5 0 0 0 4.5-4.5v-30A4.5 4.5 0 0 0 29 5H18.5v12h1V6H29a3.5 3.5 0 0 1 3.5 3.5v30A3.5 3.5 0 0 1 29 43h-9.5V32h-1Zm26 5v1h1v-1h-1ZM1.32 24.5 12.5 36.8V30h15v-1h-16v5.2l-8.82-9.7 8.82-9.7V20h16v-1h-15v-6.8L1.32 24.5ZM42.5 35v1h1v-1h-1Zm-2-1v1h1v-1h-1Zm-2-1v1h1v-1h-1Zm-2 0v1h1v-1h-1Zm-2 0v1h1v-1h-1Zm10-4v1h1v-1h-1Zm-2-1v1h1v-1h-1Zm-2 0v1h1v-1h-1Zm-2-1v1h1v-1h-1Zm-2 0v1h1v-1h-1Zm-2 0v1h1v-1h-1Zm4-6v1h1v-1h-1Zm-2 0v1h1v-1h-1Zm-2 0v1h1v-1h-1Zm8-1v1h1v-1h-1Zm-2 0v1h1v-1h-1Zm4-1v1h1v-1h-1Zm-6-4v1h1v-1h-1Zm-2 0v1h1v-1h-1Zm-2 0v1h1v-1h-1Zm6-1v1h1v-1h-1Zm2-1v1h1v-1h-1Zm2-2v1h1v-1h-1Z"
+    />
+  </svg>
+);
+export default SvgAirFilterInletL;

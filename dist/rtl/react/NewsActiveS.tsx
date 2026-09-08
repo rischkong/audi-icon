@@ -1,0 +1,14 @@
+import * as React from "react";
+const SvgNewsActiveS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M5 20H4L.08 9H2.6L5 20Zm2 0h-.9L3.18 7H7v13ZM23.7 9 19 4.3V9h4.7Z"
+    />
+    <path
+      fill="currentColor"
+      d="M24 20V10h-6V4H8v16h16Zm-3-7H11v-1h10v1Zm0 3H11v-1h10v1Z"
+    />
+  </svg>
+);
+export default SvgNewsActiveS;

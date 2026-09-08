@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgSplitL = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="m1.8 11 5.6 5.6.7-.7-4.4-4.4h13.7a3.5 3.5 0 0 1 2.88 1.5l7.61 11-7.6 11a3.5 3.5 0 0 1-2.89 1.5H3.7l4.4-4.4-.7-.7L1.8 37l5.6 5.6.7-.7-4.4-4.4h13.7a4.5 4.5 0 0 0 3.7-1.94l7.66-11.06H38v-1h-9.24L21.1 12.44a4.5 4.5 0 0 0-3.7-1.94H3.7l4.4-4.4-.7-.7L1.8 11ZM41 24a2 2 0 1 1 4 0 2 2 0 0 1-4 0Zm-1 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0Z"
+    />
+  </svg>
+);
+export default SvgSplitL;

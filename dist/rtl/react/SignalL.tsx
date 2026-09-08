@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgSignalL = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M35 39.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0ZM41 25a17 17 0 0 0-17 17h1a16 16 0 0 1 16-16v-1Zm0-10a27 27 0 0 0-27 27h1a26 26 0 0 1 26-26v-1Zm0-10A37 37 0 0 0 4 42h1A36 36 0 0 1 41 6V5Zm-7 34.5a4.5 4.5 0 1 0 9 0 4.5 4.5 0 0 0-9 0Z"
+    />
+  </svg>
+);
+export default SvgSignalL;

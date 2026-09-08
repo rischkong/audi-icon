@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgTrafficSignRecognitionAlertS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="m10.07 3.74.43.26.43.26 1.04-1.74L22.33 22H1.63l3.32-6.78L4.5 15l-.45-.22L.02 23h23.97L12.03.48l-1.96 3.26ZM7 17.18 8.74 15h4.52L15 17.18V20h-1v-1H8v1H7v-2.82Zm8-4.68-.38.32L17 15.68V19h1v-3.68l-.12-.14-2.5-3-.38.32ZM.37 12.28.01 13h13.21l-.38-.73L6.5.01.37 12.28Zm11.2-.28H1.64L6.5 2.21 11.58 12ZM6 9v2h1V9H6Zm0-4v3h1V5H6Zm0 15a1 1 0 0 0 1 1h1a1 1 0 0 0 1-.9V20h4a1 1 0 0 0 1 1h1a1 1 0 0 0 1-1v-3.18l-2.1-2.63-.16-.2H8.26l-.15.2L6 16.82V20Z"
+    />
+  </svg>
+);
+export default SvgTrafficSignRecognitionAlertS;

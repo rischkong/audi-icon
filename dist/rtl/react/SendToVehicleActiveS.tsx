@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgSendToVehicleActiveS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M3.26 3h7.48L14 7.19V8h-3.5v1H14v2.75c0 .69-.56 1.25-1.25 1.25H11c-.6 0-1.1-.43-1.22-1H4.23c-.12.57-.63 1-1.23 1H1.25C.56 13 0 12.44 0 11.75V9h3.5V8H0v-.81L3.26 3ZM24 16.75A4.23 4.23 0 0 0 19.75 21h1.5A2.73 2.73 0 0 1 24 18.25v-1.5ZM16.25 20A6.8 6.8 0 0 1 23 13.25h1v-1.5h-1A8.3 8.3 0 0 0 14.75 20v1h1.5v-1Zm-5-1c0-1.5.28-2.9.84-4.2l-1.38-.6a12.1 12.1 0 0 0-.96 4.8v2h1.5v-2ZM21.9 6.75c-2.55 0-4.9.74-6.84 2.14l.88 1.22a10.07 10.07 0 0 1 5.96-1.86H24v-1.5h-2.1Z"
+    />
+  </svg>
+);
+export default SvgSendToVehicleActiveS;

@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgGroupDiscussionS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M1 7h16v14.3L13.7 18H2.5A1.5 1.5 0 0 1 1 16.5V7Zm22 5.3L20.7 10H18V6h-6V3h11v9.3ZM0 16.5A2.5 2.5 0 0 0 2.5 19h10.8l4.7 4.7V11h2.3l3.7 3.7V2H11v4H0v10.5Z"
+    />
+  </svg>
+);
+export default SvgGroupDiscussionS;

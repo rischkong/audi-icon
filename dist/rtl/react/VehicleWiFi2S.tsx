@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgVehicleWiFi2S = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M17 22v.5c0 .28.22.5.5.5h2a.5.5 0 0 0 .5-.5V19h-3v-1h3v-.3L16.3 14H8.7L5 17.7v.3h3v1H5v3.5c0 .28.22.5.5.5h2a.5.5 0 0 0 .5-.5V22h9ZM12.45 7.85c1.14 0 2.35.38 3.12 1.21l-.37.34-.37.34a3.28 3.28 0 0 0-2.38-.89c-.96 0-1.86.32-2.38.9L9.7 9.4l-.37-.34a4.27 4.27 0 0 1 3.12-1.21ZM21 22.5c0 .83-.67 1.5-1.5 1.5h-2a1.5 1.5 0 0 1-1.41-1H8.9c-.2.58-.76 1-1.41 1h-2A1.5 1.5 0 0 1 4 22.5v-5.2L8.3 13h8.4l4.3 4.3v5.2Z"
+    />
+  </svg>
+);
+export default SvgVehicleWiFi2S;

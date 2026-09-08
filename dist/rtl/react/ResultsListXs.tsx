@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgResultsListXs = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M14 11v1h2v-1h-2ZM0 11v1h12v-1H0Zm14-4v1h2V7h-2ZM0 7v1h12V7H0Zm14-4v1h2V3h-2ZM0 3v1h12V3H0Z"
+    />
+  </svg>
+);
+export default SvgResultsListXs;

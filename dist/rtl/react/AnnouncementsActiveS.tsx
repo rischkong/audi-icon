@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgAnnouncementsActiveS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M2.5 2h.12l.1.05h.02l.05.03a23.53 23.53 0 0 0 .93.43c.62.28 1.5.65 2.5 1.02 1.82.68 4 1.34 5.78 1.45v9.04c-1.78.1-3.96.77-5.79 1.45a44.42 44.42 0 0 0-3.42 1.45l-.05.02h-.02l-.1.06H2.5c-.5 0-.9-.27-1.2-.65-.31-.37-.55-.9-.73-1.52A19.85 19.85 0 0 1 0 9.5c0-2.27.2-4.08.57-5.33a4.4 4.4 0 0 1 .72-1.52C1.6 2.27 2 2 2.5 2ZM13 14V5h11v9h-4.14l-3 9h-5.05l3-9H13Z"
+    />
+  </svg>
+);
+export default SvgAnnouncementsActiveS;

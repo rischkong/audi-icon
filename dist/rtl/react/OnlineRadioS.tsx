@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgOnlineRadioS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M12 15v2.28l2.5 1.5V22h1v-3.78l-.24-.15L13 16.72V16h7v.72l-2.26 1.35-.24.15V22h1v-3.22l2.5-1.5V15h-9Zm0-2v1h9v-1h-9Zm4-11v5h-1.5v5h1V8h2v4h1V7H17V2h-1Zm-3 6.5A3.5 3.5 0 0 0 9.5 12h1A2.5 2.5 0 0 1 13 9.5v-1Zm0-3A6.5 6.5 0 0 0 6.5 12h1A5.5 5.5 0 0 1 13 6.5v-1Zm0-3A9.5 9.5 0 0 0 3.5 12h1c0-4.7 3.8-8.5 8.5-8.5v-1Z"
+    />
+  </svg>
+);
+export default SvgOnlineRadioS;

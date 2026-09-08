@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgEditorialS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M3 1.5c0-.3.24-.5.5-.5H21v21.5c0 .3-.24.5-.5.5H3V1.5ZM5 15v1h14v-1H5Zm0-3v1h14v-1H5Zm8-6v4h6V6h-6ZM5 9v1h6V9H5Zm13 0h-4V7h4v2ZM5 6v1h6V6H5ZM2 24h18.5c.74 0 1.5-.6 1.5-1.5V0H3.5C2.76 0 2 .6 2 1.5V24Z"
+    />
+  </svg>
+);
+export default SvgEditorialS;

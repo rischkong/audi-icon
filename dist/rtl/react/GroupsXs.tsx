@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgGroupsXs = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M4 10.5C4 9.67 4.67 9 5.5 9h8c.83 0 1.5.67 1.5 1.5V15H4v-4.5Zm-3 0C1 9.67 1.67 9 2.5 9V8A2.5 2.5 0 0 0 0 10.5V16h2v-1H1v-4.5Zm6-8C7 1.68 7.68 1 8.5 1h2c.82 0 1.5.68 1.5 1.5v2c0 .82-.68 1.5-1.5 1.5h-2A1.5 1.5 0 0 1 7 4.5v-2Zm-3 2v-2C4 1.68 4.68 1 5.5 1V0A2.5 2.5 0 0 0 3 2.5v2A2.5 2.5 0 0 0 5.5 7V6A1.5 1.5 0 0 1 4 4.5ZM3 16h13v-5.5A2.5 2.5 0 0 0 13.5 8h-8A2.5 2.5 0 0 0 3 10.5V16ZM6 4.5A2.5 2.5 0 0 0 8.5 7h2A2.5 2.5 0 0 0 13 4.5v-2A2.5 2.5 0 0 0 10.5 0h-2A2.5 2.5 0 0 0 6 2.5v2Z"
+    />
+  </svg>
+);
+export default SvgGroupsXs;

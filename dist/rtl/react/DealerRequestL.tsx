@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgDealerRequestL = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M5 24.5C5 23.08 6.08 22 7.5 22H35v19.5c0 1.42-1.08 2.5-2.5 2.5H5V24.5Zm40 12V2H28.1v17h1V3H44v25h-6v1h6v7.5c0 1.42-1.08 2.5-2.5 2.5H38v1h3.5c1.98 0 3.5-1.52 3.5-3.5ZM9.4 28.9l-.3.4 10.8 8.23.3-.23 10.4-7.9-.6-.8-10.1 7.67L9.7 28.5l-.3.4ZM4 45h28.5c1.98 0 3.5-1.52 3.5-3.5V21H7.5A3.45 3.45 0 0 0 4 24.5V45Z"
+    />
+  </svg>
+);
+export default SvgDealerRequestL;

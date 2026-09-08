@@ -1,0 +1,15 @@
+import * as React from "react";
+const SvgStatusUpdateActiveS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M11.86 7H3v10h7v7h11V7h-5.1l-2.38 4.14-3.04-1.75L11.86 7Z"
+    />
+    <path
+      fill="currentColor"
+      d="M9 18H3.3L9 23.7V18Zm5-15.5a2.5 2.5 0 1 0 5 0 2.5 2.5 0 0 0-5 0Z"
+    />
+    <path fill="currentColor" d="m11.85 9.03 1.3.75 3-5.2-1.3-.76-3 5.2Z" />
+  </svg>
+);
+export default SvgStatusUpdateActiveS;

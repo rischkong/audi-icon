@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgTrainingXs = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M2 12.5c0-.83.67-1.5 1.5-1.5h8c.83 0 1.5.67 1.5 1.5V15H2v-2.5Zm3-6.6 2.28 1.15.22.1.22-.1L10 5.9v.59C10 7.32 9.32 8 8.5 8h-2A1.5 1.5 0 0 1 5 6.5v-.6Zm7.38-2.3L7.5 6.04 2.62 3.6 7.5 1.16l4.88 2.44ZM1 16h13v-3.5a2.5 2.5 0 0 0-2.5-2.5h-8A2.5 2.5 0 0 0 1 12.5V16Zm3-9.5A2.5 2.5 0 0 0 6.5 9h2A2.5 2.5 0 0 0 11 6.5V5.4l2-1V8h1V3.3l-.28-.15-6-3-.22-.1-.22.1L.38 3.6 4 5.4v1.1Z"
+    />
+  </svg>
+);
+export default SvgTrainingXs;

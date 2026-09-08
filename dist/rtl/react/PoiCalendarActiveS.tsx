@@ -1,0 +1,11 @@
+import * as React from "react";
+const SvgPoiCalendarActiveS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill="currentColor" d="M11 10H9.2l1.8 1.8V10Z" />
+    <path
+      fill="currentColor"
+      d="M12.5.8c4.18 0 7.7 3.53 7.7 7.8 0 1.11-.5 2.58-1.17 4.1a47.57 47.57 0 0 1-2.5 4.7 90.11 90.11 0 0 1-3.54 5.47l-.06.09-.02.02-.41.58-.4-.57h-.01l-.02-.03-.06-.09a69.6 69.6 0 0 1-1.05-1.53 90.12 90.12 0 0 1-2.49-3.93 47.56 47.56 0 0 1-2.5-4.72C5.29 11.18 4.8 9.71 4.8 8.6 4.8 4.33 8.32.8 12.5.8ZM17 6V5H8v1h9Zm0 6.2V7h-1v5h-4V9H9V7H8v3.2l2.8 2.8H16c.17 0 .37-.04.55-.13.16-.08.45-.28.45-.67Z"
+    />
+  </svg>
+);
+export default SvgPoiCalendarActiveS;

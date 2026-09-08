@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgGeofenceAlertXs = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M15.82 15H1.18L8.5.92 15.82 15Zm-13-1h11.36L8.5 3.08 2.82 14ZM9 11v1.5H8V11h1Zm0-5v4H8V6h1Z"
+    />
+  </svg>
+);
+export default SvgGeofenceAlertXs;

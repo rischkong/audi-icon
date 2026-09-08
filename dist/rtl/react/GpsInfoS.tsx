@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgGpsInfoS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M1 19.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0ZM11.5.5v2.01a9.46 9.46 0 0 0-8.99 8.99H.5v1h2.01c.03.55.1 1.09.22 1.6l.98-.2a8.6 8.6 0 0 1-.2-1.4H6.5v-1H3.52a8.45 8.45 0 0 1 7.98-7.99V6.5h1V3.51a8.45 8.45 0 0 1 7.98 7.99H17.5v1h2.98a8.45 8.45 0 0 1-7.98 7.98V17.5h-1v2.98a8.13 8.13 0 0 1-1.4-.19l-.2.98a9.6 9.6 0 0 0 1.6.22v2.01h1v-2.01a9.46 9.46 0 0 0 8.99-8.99h2.01v-1h-2.01a9.46 9.46 0 0 0-8.99-8.99V.5h-1ZM4 19v3h1v-3H4Zm0-2v1h1v-1H4Zm-4 2.5a4.5 4.5 0 1 0 9 0 4.5 4.5 0 0 0-9 0Z"
+    />
+  </svg>
+);
+export default SvgGpsInfoS;

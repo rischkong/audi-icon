@@ -1,0 +1,14 @@
+import * as React from "react";
+const SvgCalendarEventsS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="m9.1 5.9 2.1-.5h.6v5.8h1.8v.8H9.1v-.8h1.8V6.3l-1.8.4v-.8Zm5.7 5.8v-.8c.7.2 1.5.3 2.3.4 1.4 0 2-.5 2-1.2 0-1.2-2.7-1.4-4.1-1.4l.2-3.3h4.5v.8H16L15.9 8c1.9.1 4.1.5 4.1 2.1 0 1.1-.9 2-3 2-.8 0-1.5-.2-2.2-.4Z"
+    />
+    <path
+      fill="currentColor"
+      d="M19 22.5V20h3.5c.9 0 1.5-.76 1.5-1.5V3h-1v15.5c0 .26-.2.5-.5.5H11v-5H6V3H5v11.7l5.3 5.3H18v2.5c0 .19-.06.3-.13.37s-.18.13-.37.13h-15c-.19 0-.3-.06-.37-.13S2 22.7 2 22.5V6H1v16.5c0 .41.14.8.42 1.08.28.28.67.42 1.08.42h15c.41 0 .8-.14 1.08-.42.28-.28.42-.67.42-1.08Zm-9-4.2L6.7 15H10v3.3ZM5 0v1h19V0H5Z"
+    />
+  </svg>
+);
+export default SvgCalendarEventsS;

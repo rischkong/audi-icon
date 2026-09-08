@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgAirFilterXs = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M11.85 13.92V2.08C11.85.93 10.92 0 9.77 0H3.85v4h1V1h4.92c.6 0 1.08.48 1.08 1.08v11.84c0 .6-.48 1.08-1.08 1.08H4.85v-1h-1v2h5.92c1.15 0 2.08-.93 2.08-2.08ZM8.8 9a4 4 0 0 0-2.83 1.17 3 3 0 0 1-4.24 0L.71 9.15l-.71.7 1.03 1.03a4 4 0 0 0 5.65 0A3 3 0 0 1 8.8 10h.05V9H8.8Zm4.05 2v1h1v-1h-1Zm2-1v1h1v-1h-1ZM8.8 5a4 4 0 0 0-2.83 1.17 3 3 0 0 1-4.24 0L.71 5.15l-.71.7 1.03 1.03a4 4 0 0 0 5.65 0A3 3 0 0 1 8.8 6h.05V5H8.8Zm4.05 2v1h1V7h-1Zm2-1v1h1V6h-1Z"
+    />
+  </svg>
+);
+export default SvgAirFilterXs;

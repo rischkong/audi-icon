@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgDeliveryActiveS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M23 6V5H6.5C5.67 5 5 5.67 5 6.5V13H4V7.5h-.34c-.9 0-1.72.48-2.17 1.26L0 11.36v4.14c0 .83.67 1.5 1.5 1.5h.05a2.5 2.5 0 0 0 4.9 0h8.1a2.5 2.5 0 0 0 4.9 0h1.05c.83 0 1.5-.67 1.5-1.5V13h-3v-1h4v-1h-1v-1h-3V9h5V8h-2V7h-4V6h5Z"
+    />
+  </svg>
+);
+export default SvgDeliveryActiveS;

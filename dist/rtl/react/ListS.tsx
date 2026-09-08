@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgListS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M21 17v1h2v-1h-2ZM4 17v1h15v-1H4Zm17-6v1h2v-1h-2ZM6 11v1h13v-1H6Zm15-6v1h2V5h-2ZM1 5v1h18V5H1Z"
+    />
+  </svg>
+);
+export default SvgListS;

@@ -1,0 +1,10 @@
+import * as React from "react";
+const SvgBusinessCustomerXs = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M3 0v16h4v-4h3v4h4V0H3Zm10 15h-2v-4H6v4H4V1h9v14ZM9 6v3h3V6H9ZM5 6v3h3V6H5Zm2 2H6V7h1v1Zm4 0h-1V7h1v1ZM9 2v3h3V2H9ZM5 2v3h3V2H5Zm2 2H6V3h1v1Zm4 0h-1V3h1v1Z"
+    />
+  </svg>
+);
+export default SvgBusinessCustomerXs;

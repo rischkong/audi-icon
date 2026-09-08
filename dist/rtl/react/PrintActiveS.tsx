@@ -1,0 +1,14 @@
+import * as React from "react";
+const SvgPrintActiveS = () => (
+  <svg width="1em" height="1em" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path
+      fill="currentColor"
+      d="M20 1H10v6H4v12h16V1Zm-4 10H8v-1h8v1Zm0 4H8v-1h8v1Z"
+    />
+    <path
+      fill="currentColor"
+      d="M4 5.8V6h5V1h-.2L4 5.8Zm19.54 8.66A1.5 1.5 0 0 0 22.5 14H21v6H3v-6H1.5c-.74 0-1.5.6-1.5 1.5V24h24v-8.5c0-.41-.2-.78-.46-1.04Z"
+    />
+  </svg>
+);
+export default SvgPrintActiveS;
